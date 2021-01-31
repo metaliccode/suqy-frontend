@@ -1,4 +1,4 @@
-# shayna
+# As-suqy Store 
 
 ## Project setup
 ```
